@@ -35,7 +35,8 @@ or <a href="mailto:musfirazia250@gmail.com"><b>email</b></a> me
 - 💪🏼 Future Goals: Learn more technologies and become a full stack engineer - Never stop creating new ideas.
 - ⚡ Fun fact: I love to work on challenging tasks.
 
-<br/>
+<br>
+
 ### Languages and Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -59,5 +60,16 @@ or <a href="mailto:musfirazia250@gmail.com"><b>email</b></a> me
 ### 🐱My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=musfirazia&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfirazia&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/MusfiraZia" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/musfira-zia-8ab7a416a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:musfira@xord.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    
+  </p>
+  </p>
+
 
 ![Profile views](https://gpvc.arturio.dev/Musfirazia)  
