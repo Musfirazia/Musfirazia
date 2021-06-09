@@ -38,6 +38,7 @@ or <a href="mailto:musfirazia250@gmail.com"><b>email</b></a> me
 <br>
 
 ### Languages and Tools 🛠 
+![C#](http://img.shields.io/badge/-C#-A8B9CC?style=flat-square&logo=c#&logoColor=ffffff)
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
